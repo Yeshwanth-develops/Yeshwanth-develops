@@ -3,16 +3,27 @@
 
 ## Hey there! 👋
 
-I'm **Yeshwanth Sunkara**, a 2nd-year Computer Science Engineering student at KL University, Hyderabad, with a passion for coding, tech innovations, and problem-solving. I strive to create a positive impact with technology and am constantly exploring new avenues in the tech world. Welcome to my GitHub repository where I showcase my journey!
+I'm **Yeshwanth Sunkara**, A Computer Science Engineering student at KL University, Hyderabad, with a passion for coding, tech innovations, and problem-solving. I strive to create a positive impact with technology and am constantly exploring new avenues in the tech world. Welcome to my GitHub repository where I showcase my journey!
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
-- **Languages**: Java, C, Python, HTML, CSS, JavaScript
-- **Frameworks**: React.js, Node.js, Express.js
-- **Databases**: MongoDB, MySQL
-- **Tools**: Git, VS Code, Linux (beginner)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
 ---
 
