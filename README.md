@@ -47,19 +47,7 @@ I'm **Yeshwanth Sunkara**, A Computer Science Engineering student at KL Universi
 
 ---
 
-### 📚 Learning Goals
 
-- Mastering **Data Structures and Algorithms** (DSA)
-- Diving deeper into **AI & ML** for real-world applications
-- **Front-End Development**: Perfecting skills in HTML, CSS, JavaScript, React.js.
-
----
-
-### 🌱 Future Plans
-
-- Pursue a career as a **Web Developer** or **Business Analyst**
-- Work on **Dynamic Banner & Video Generation** using AI
-- Prep for **placements** with a strong foundation in **Java** and **DSA**
 
 ---
 
