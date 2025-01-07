@@ -14,17 +14,15 @@ I'm **Yeshwanth Sunkara**, A Computer Science Engineering student at KL Universi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
 ---
@@ -79,7 +77,7 @@ I'm **Yeshwanth Sunkara**, A Computer Science Engineering student at KL Universi
 ### 🤝 Let's Connect
 
 - LinkedIn: [Yeshwanth Sunkara](https://www.linkedin.com/in/yeshwanthsunkara/)
-- Email: [yeshwanthsunkara2006@.com](mailto:yeshwanthsunkara2006@gmail.com)
+- Email: [yeshwanthsunkara2006@gmail.com](mailto:yeshwanthsunkara2006@gmail.com)
 
 Feel free to browse through my repos, leave a star ⭐, or fork 🍴 any project that interests you! Let’s build and learn together!
 
