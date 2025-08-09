@@ -41,7 +41,6 @@ I'm **Yeshwanth Sunkara**, A Computer Science Engineering student at KL Universi
 
 ### 📈 Ongoing Projects
 
-- **Farmers Web App**: An e-commerce platform with a system for bargaining.
 - **Portfolio Website**: Creating a formal and sleek personal portfolio.
 
 ---
