@@ -15,14 +15,6 @@
 
 ---
 
-### 🚀 What I'm Working On
-
-- **Java Full Stack Development**: Diving deep into building robust back-end services and dynamic front-end experiences.
-- **AI-ML Projects**: Building innovative projects like **Predictive Models** and **Map-Matching Algorithms**.
-- **Direct Market Access for Farmers**: Creating a web platform to connect farmers with consumers and retailers directly.
-
----
-
 ### 💼 Certifications & Achievements
 
 - **Programming in C** – *CodeChef*
